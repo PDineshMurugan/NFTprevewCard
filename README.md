@@ -1,3 +1,4 @@
+
 # NFT Preview Card Component
 
 This project is a simple and elegant NFT preview card component built with HTML and CSS. It showcases an NFT item with details like title, description, price in Ethereum, countdown, and creator information, designed to be responsive and visually appealing on various screen sizes.
@@ -46,8 +47,8 @@ NFT Preview Card Component
 
 ## 🌐 Live Demo
 
-If hosted on a platform like GitHub Pages or Netlify, include a live demo link here:
-[Live Demo](#)
+You can view the live demo of this project by clicking on the following link:  
+[Live Demo](https://pdineshmurugan.github.io/NFTprevewCard/)
 
 ## 🖌️ Customization
 
@@ -62,3 +63,4 @@ This project is open-source and available under the [MIT License](./LICENSE).
 ## 👤 Author
 
 Created by **Dinesh Murugan P** – [GitHub Profile](https://github.com/PDineshMurugan)
+
